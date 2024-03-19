@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Asynchronous_Programming/Asynchronous_Programming.iml" filepath="$PROJECT_DIR$/Asynchronous_Programming/Asynchronous_Programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataBases/DataBases.iml" filepath="$PROJECT_DIR$/DataBases/DataBases.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DeadLock_Resolving/DeadLock_Resolving.iml" filepath="$PROJECT_DIR$/DeadLock_Resolving/DeadLock_Resolving.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DeadLocks/DeadLocks.iml" filepath="$PROJECT_DIR$/DeadLocks/DeadLocks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Producer_Consumer/Producer_Consumer.iml" filepath="$PROJECT_DIR$/Producer_Consumer/Producer_Consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Threads.iml" filepath="$PROJECT_DIR$/Threads.iml" />
+    </modules>
+  </component>
+</project>
